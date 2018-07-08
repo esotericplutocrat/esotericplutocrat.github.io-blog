@@ -21,7 +21,7 @@ Babe Ruth aka "The Slugger" is considered as the most successful baseball player
 
 ### <u>Every legend was once a beginner.</u> 
 
-What makes them different is their perseverance and dedication. Most of you don’t want success as much as you want sleep. Pain will last for a minute or day. But if we quit it will last forever. Most of you don’t want success as much as you want sleep. We give up easily and we don't climb our way towards the epitome.
+What makes them different is their perseverance and dedication. Pain will last for a minute or day. But if we quit it will last forever. Most of you don’t want success as much as you want sleep. We give up easily and we don't climb our way towards the epitome.
 
 <u>I have heard an interesting anecdote:</u>
 
