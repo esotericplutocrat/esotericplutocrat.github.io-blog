@@ -1,6 +1,6 @@
 ---
 title:  "Alexander & Diogenes"
-subtitle: ""
+subtitle: "Empty-handed you come, empty-handed you go"
 author: "Rohit Naidu"
 avatar: "img/authors/rohit.png"
 image: "img/diogenes.jpg"
