@@ -59,7 +59,7 @@ var Card = (function (window) {
         this._TL.add(slideContentDown);
         this._TL.add(clipImageIn, 0);
         this._TL.add(floatContainer, '-=' + clipImageIn.duration() * 0.9);
-        this._TL.add(clipImageOut, '-=' + floatContainer.duration() * 0.7);
+        this._TL.add(clipImageOut, '-=' + floatContainer.duration() * 0.9);
         this._TL.add(slideContentUp, '-=' + clipImageOut.duration() * 0.9);
 
         this.isOpen = true;
