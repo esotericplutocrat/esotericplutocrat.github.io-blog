@@ -4,7 +4,7 @@ subtitle:   "A quenchless torment"
 author:     "Rohit Naidu"
 avatar: "img/authors/rohit.png"
 image: "img/obsession.jpg"
-date:   2018-06-12 11:35:12
+date:   2018-07-12 11:35:12
 ---
 
 Obsession: A Quenchless Torment
